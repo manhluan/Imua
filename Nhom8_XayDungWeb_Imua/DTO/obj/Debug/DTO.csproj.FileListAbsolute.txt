@@ -1,0 +1,15 @@
+C:\Users\MinhThanh\Desktop\ASP_NET\Nhom8_XayDungWeb_Imua\DTO\bin\Debug\DTO.dll
+C:\Users\MinhThanh\Desktop\ASP_NET\Nhom8_XayDungWeb_Imua\DTO\bin\Debug\DTO.pdb
+C:\Users\MinhThanh\Desktop\ASP_NET\Nhom8_XayDungWeb_Imua\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\MinhThanh\Desktop\ASP_NET\Nhom8_XayDungWeb_Imua\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\MinhThanh\Desktop\ASP_NET\Nhom8_XayDungWeb_Imua\DTO\obj\Debug\DTO.dll
+C:\Users\MinhThanh\Desktop\ASP_NET\Nhom8_XayDungWeb_Imua\DTO\obj\Debug\DTO.pdb
+C:\Users\ducqu\Desktop\Web\Nhom8_XayDungWeb_Imua\DTO\bin\Debug\DTO.dll
+C:\Users\ducqu\Desktop\Web\Nhom8_XayDungWeb_Imua\DTO\bin\Debug\DTO.pdb
+C:\Users\ducqu\Desktop\Web\Nhom8_XayDungWeb_Imua\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\ducqu\Desktop\Web\Nhom8_XayDungWeb_Imua\DTO\obj\Debug\DTO.dll
+C:\Users\ducqu\Desktop\Web\Nhom8_XayDungWeb_Imua\DTO\obj\Debug\DTO.pdb
+F:\Nhom8\Nhom8\Nhom8_XayDungWeb_Imua\DTO\bin\Debug\DTO.dll
+F:\Nhom8\Nhom8\Nhom8_XayDungWeb_Imua\DTO\bin\Debug\DTO.pdb
+F:\Nhom8\Nhom8\Nhom8_XayDungWeb_Imua\DTO\obj\Debug\DTO.dll
+F:\Nhom8\Nhom8\Nhom8_XayDungWeb_Imua\DTO\obj\Debug\DTO.pdb
